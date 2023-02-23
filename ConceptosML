@@ -1,0 +1,44 @@
+Conceptos de machine learning a buscar (MUESTRAS)
+    -> Bootstraping
+    -> Stratification
+
+Métricas
+    -> Matriz de confusión
+    -> Cross validation score
+    -> Accuracy score
+    -> Curva ROC
+
+Gráficos para evaluar importancia de variables
+    -> Matriz de confusión
+    -> matriz de correlación
+    -> r de pearson y rho de spearman
+    -> Diagramas de correlación
+
+Eliminación de variables
+    -> Backward elimination
+    -> Reducción de dimensionalidad
+
+Pipelines
+
+Scalers:
+    -> StandardScaler
+    -> MinMax scaler
+
+Core Concepts
+    -> Underfitting
+    -> Overfitting
+    -> Técnicas para mejorar rendimiento de modelos
+    -> Regularización L1,L2
+    -> Conjunto de datos desequilibrados
+    -> Precisión vs rendimiento
+    -> Técnicas de Regularización para evitar sobreajuste
+    -> Rellenado de datos faltantes
+    -> Bias-variance tradeoff
+
+Algoritmos de ML: 
+    - Regresión lineal (univariada, multivariada)
+    - Regresión logística (univariada, multivariada)
+    - KNN
+    - Random forest
+    - SVM 
+        -> Kernel trick (para dimensiones superiores)
